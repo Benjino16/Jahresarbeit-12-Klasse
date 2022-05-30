@@ -1,0 +1,66 @@
+{
+    "Car_Training": {
+        "checkpoints": [
+            {
+                "steps": 4549948,
+                "file_path": "results\\GoLeft\\Car_Training\\Car_Training-4549948.onnx",
+                "reward": 4.613067946480806,
+                "creation_time": 1653933687.0459185,
+                "auxillary_file_paths": [
+                    "results\\GoLeft\\Car_Training\\Car_Training-4549948.pt"
+                ]
+            },
+            {
+                "steps": 4599961,
+                "file_path": "results\\GoLeft\\Car_Training\\Car_Training-4599961.onnx",
+                "reward": 4.664247012591109,
+                "creation_time": 1653933763.4088008,
+                "auxillary_file_paths": [
+                    "results\\GoLeft\\Car_Training\\Car_Training-4599961.pt"
+                ]
+            },
+            {
+                "steps": 4649955,
+                "file_path": "results\\GoLeft\\Car_Training\\Car_Training-4649955.onnx",
+                "reward": 3.0431846265115774,
+                "creation_time": 1653933842.5591767,
+                "auxillary_file_paths": [
+                    "results\\GoLeft\\Car_Training\\Car_Training-4649955.pt"
+                ]
+            },
+            {
+                "steps": 4699975,
+                "file_path": "results\\GoLeft\\Car_Training\\Car_Training-4699975.onnx",
+                "reward": 2.6290429662382926,
+                "creation_time": 1653933922.304313,
+                "auxillary_file_paths": [
+                    "results\\GoLeft\\Car_Training\\Car_Training-4699975.pt"
+                ]
+            },
+            {
+                "steps": 4744854,
+                "file_path": "results\\GoLeft\\Car_Training\\Car_Training-4744854.onnx",
+                "reward": 4.772693909924458,
+                "creation_time": 1653933997.1353366,
+                "auxillary_file_paths": [
+                    "results\\GoLeft\\Car_Training\\Car_Training-4744854.pt"
+                ]
+            }
+        ],
+        "elo": -530.0310986102052,
+        "final_checkpoint": {
+            "steps": 4744854,
+            "file_path": "results\\GoLeft\\Car_Training.onnx",
+            "reward": 4.772693909924458,
+            "creation_time": 1653933997.1353366,
+            "auxillary_file_paths": [
+                "results\\GoLeft\\Car_Training\\Car_Training-4744854.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

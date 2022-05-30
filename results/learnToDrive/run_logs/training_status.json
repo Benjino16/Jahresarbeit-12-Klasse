@@ -1,0 +1,48 @@
+{
+    "Car_Training": {
+        "checkpoints": [
+            {
+                "steps": 499987,
+                "file_path": "results\\learnToDrive\\Car_Training\\Car_Training-499987.onnx",
+                "reward": 5.489287376403809,
+                "creation_time": 1653821627.8218837,
+                "auxillary_file_paths": [
+                    "results\\learnToDrive\\Car_Training\\Car_Training-499987.pt"
+                ]
+            },
+            {
+                "steps": 500051,
+                "file_path": "results\\learnToDrive\\Car_Training\\Car_Training-500051.onnx",
+                "reward": 5.489287376403809,
+                "creation_time": 1653821627.9041817,
+                "auxillary_file_paths": [
+                    "results\\learnToDrive\\Car_Training\\Car_Training-500051.pt"
+                ]
+            },
+            {
+                "steps": 516859,
+                "file_path": "results\\learnToDrive\\Car_Training\\Car_Training-516859.onnx",
+                "reward": 0.016784598865673284,
+                "creation_time": 1653830639.0613813,
+                "auxillary_file_paths": [
+                    "results\\learnToDrive\\Car_Training\\Car_Training-516859.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 516859,
+            "file_path": "results\\learnToDrive\\Car_Training.onnx",
+            "reward": 0.016784598865673284,
+            "creation_time": 1653830639.0613813,
+            "auxillary_file_paths": [
+                "results\\learnToDrive\\Car_Training\\Car_Training-516859.pt"
+            ]
+        },
+        "elo": 1200.0
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Car_Training": {
+        "checkpoints": [
+            {
+                "steps": 2199967,
+                "file_path": "results\\learnToDriveLong\\Car_Training\\Car_Training-2199967.onnx",
+                "reward": 2.5952157316642115,
+                "creation_time": 1653831636.7222087,
+                "auxillary_file_paths": [
+                    "results\\learnToDriveLong\\Car_Training\\Car_Training-2199967.pt"
+                ]
+            },
+            {
+                "steps": 2249975,
+                "file_path": "results\\learnToDriveLong\\Car_Training\\Car_Training-2249975.onnx",
+                "reward": 2.2877793586812913,
+                "creation_time": 1653831705.3851821,
+                "auxillary_file_paths": [
+                    "results\\learnToDriveLong\\Car_Training\\Car_Training-2249975.pt"
+                ]
+            },
+            {
+                "steps": 2299951,
+                "file_path": "results\\learnToDriveLong\\Car_Training\\Car_Training-2299951.onnx",
+                "reward": 1.1227827353910211,
+                "creation_time": 1653831783.2576559,
+                "auxillary_file_paths": [
+                    "results\\learnToDriveLong\\Car_Training\\Car_Training-2299951.pt"
+                ]
+            },
+            {
+                "steps": 2349968,
+                "file_path": "results\\learnToDriveLong\\Car_Training\\Car_Training-2349968.onnx",
+                "reward": 2.857323830103269,
+                "creation_time": 1653831852.470282,
+                "auxillary_file_paths": [
+                    "results\\learnToDriveLong\\Car_Training\\Car_Training-2349968.pt"
+                ]
+            },
+            {
+                "steps": 2354962,
+                "file_path": "results\\learnToDriveLong\\Car_Training\\Car_Training-2354962.onnx",
+                "reward": null,
+                "creation_time": 1653831864.2907815,
+                "auxillary_file_paths": [
+                    "results\\learnToDriveLong\\Car_Training\\Car_Training-2354962.pt"
+                ]
+            }
+        ],
+        "elo": -142.52227133112117,
+        "final_checkpoint": {
+            "steps": 2354962,
+            "file_path": "results\\learnToDriveLong\\Car_Training.onnx",
+            "reward": null,
+            "creation_time": 1653831864.2907815,
+            "auxillary_file_paths": [
+                "results\\learnToDriveLong\\Car_Training\\Car_Training-2354962.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
